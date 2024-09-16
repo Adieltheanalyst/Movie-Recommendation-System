@@ -1,5 +1,4 @@
 
-Certainly! Here's the README file tailored to your movie recommendation system project:
 
 Movie Recommendation System
 Welcome to the Movie Recommendation System! This project utilizes natural language processing (NLP) and machine learning (ML) techniques to suggest movies based on the user's favorite choices.
